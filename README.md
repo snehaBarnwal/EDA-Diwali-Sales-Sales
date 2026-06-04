@@ -1,2 +1,2 @@
-# EDA-Diwali-Sales-Sales
+# EDA-Diwali-Sales Analysis
 Sales Data Analysis
